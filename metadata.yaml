@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37521
     wikipedia: http://en.wikipedia.org/wiki/Georg_Simmel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35192#Kant-und-Goethe
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-02-06'
 gutenberg_type: Text
